@@ -19,7 +19,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Reena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reena-mishra-75938955//)](https://www.linkedin.com/in/renuka-maradagi-a06934212/)
+[![Linkedin Badge](https://img.shields.io/badge/-Reena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reena-mishra-75938955//)](https://www.linkedin.com/in/reena-mishra-75938955/)
 
 
 I'm
