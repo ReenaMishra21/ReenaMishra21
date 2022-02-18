@@ -25,7 +25,7 @@
 I'm
 Full Stack web development Intern with interest in learning and building technology in a creative manner. The crossover between design and programming has always been of interest to me. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 
-📫 You can reach me:  <a href="mailto:mishra.swati.2009@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+📫 You can reach me:  <a href="mailto:rmshra.smg@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/ReenaMishra21/count.svg)
 
